@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anjan1204
+- 👋 Hi, I’m Anjan Kumar
 - 👀 I’m interested in Web Designing and Hacking
 - 🌱 I’m currently learning kali and other programming languages
 
