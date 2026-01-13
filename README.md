@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+Automation+Engineer;Cyber+Security+%26+Forensics+Enthusiast;Building+Secure+%26+Scalable+Systems" />
 </p>
+
+---
 # 💫 About Me:
 🔭 Currently building<br>⚡ Full-stack web apps with React, Node.js & MongoDB<br>🤖 AI-powered bots for automation & smart content creation<br>🔐 Security-aware applications with a focus on safe & reliable systems<br>🧠 Real-world tech projects that go beyond college assignments<br><br>👯 Open to collaborating on<br>🌐 Open-source Web, AI & Cyber Security projects<br>🚀 Startup-style ideas that actually solve real problems<br>🧩 Anything challenging, innovative, and security-focused<br><br>🤝 Looking for guidance in<br>🏗️ Scalable backend & secure system design<br>🔐 Writing clean, secure, production-ready code<br><br>🌱 Currently leveling up in<br>⚛️ Advanced React & JavaScript<br>🐍 Python automation, AI workflows & scripting<br>🛡️ Cyber Security, Digital Forensics & ethical hacking concepts<br><br>💬 Ask me about<br>💡 Web Development (Frontend + Backend)<br>🤖 AI bots, automation & smart systems<br>🔐 Cyber Security basics, forensics tools & security best practices<br>🎓 MCA studies, tech learning paths & career prep<br><br>⚡ Fun fact<br>I love breaking complex problems into simple, elegant, and secure solutions — and yes, debugging at 2 AM feels completely normal now 😄
 
